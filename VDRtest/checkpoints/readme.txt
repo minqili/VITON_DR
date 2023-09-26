@@ -1,0 +1,1 @@
+We used the pre-trained models `latest_net_G.pth`, `latest_net_G1.pth`, `latest_net_G2.pth` from ACGPN, which can be download [here](https://drive.google.com/file/d/1UWT6esQIU_d4tUm8cjxDKMhB8joQbrFx/view?usp=sharing) .
