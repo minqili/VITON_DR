@@ -1,5 +1,5 @@
 This package provides  test demo of our implementation for paper:
-"VITON-DR: Details Retention Virtual Try-on via Non-rigid Registration "    
+"VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration "    
 
 ##Installation
 `python 3.8.11`  
